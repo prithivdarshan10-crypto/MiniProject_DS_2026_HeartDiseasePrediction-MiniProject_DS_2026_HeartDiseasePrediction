@@ -1,0 +1,40 @@
+{
+  "results": {
+    "Logistic Regression": {
+      "accuracy": 60.66,
+      "precision": 59.52,
+      "recall": 78.12,
+      "f1": 67.57,
+      "auc": 59.81
+    },
+    "Decision Tree": {
+      "accuracy": 47.54,
+      "precision": 50.0,
+      "recall": 65.62,
+      "f1": 56.76,
+      "auc": 47.95
+    },
+    "Random Forest": {
+      "accuracy": 59.02,
+      "precision": 61.29,
+      "recall": 59.38,
+      "f1": 60.32,
+      "auc": 55.5
+    },
+    "Gradient Boosting": {
+      "accuracy": 42.62,
+      "precision": 45.16,
+      "recall": 43.75,
+      "f1": 44.44,
+      "auc": 41.81
+    },
+    "K-Nearest Neighbours": {
+      "accuracy": 65.57,
+      "precision": 64.86,
+      "recall": 75.0,
+      "f1": 69.57,
+      "auc": 63.79
+    }
+  },
+  "best_model": "K-Nearest Neighbours"
+}
