@@ -1,7 +1,7 @@
 # Predict & Explain: Identifying Heart Disease Risk Factors Using Patient Clinical Data
 
 > Mini Project – Data Science | SRM Institute of Science and Technology
-> Academic Year 2025–2026
+> Academic Year 2026
 
 ---
 
