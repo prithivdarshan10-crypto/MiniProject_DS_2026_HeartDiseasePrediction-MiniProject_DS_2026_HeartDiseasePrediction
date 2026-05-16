@@ -164,5 +164,5 @@ python src/model.py
 | MUKESH T | RA2311026050205 | Data Analysis & Visualisation |
 
 **Institution:** SRM Institute of Science and Technology
-**Department:** Computer Science and Engineering
-**Academic Year:** 2025–2026
+**Department:** Artificial Intelligence and Machine Learning
+**Academic Year:** 2026
